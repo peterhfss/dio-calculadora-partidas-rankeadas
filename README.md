@@ -2,7 +2,7 @@
 
 ## Descrição do desafio
 
-O desafio possui o objetivo de criar uma Crie uma função que recebe como parâmetro a quantidade de vitórias e derrotas de um jogador,
+O desafio possui o objetivo de criar uma função que recebe como parâmetro a quantidade de vitórias e derrotas de um jogador,
 depois disso retorne o resultado para uma variável, o saldo de Rankeadas deve ser feito através do calculo (vitórias - derrotas)
 
 Se vitórias for menor do que 10 = Ferro<br>
